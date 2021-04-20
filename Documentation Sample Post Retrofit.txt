@@ -1,0 +1,7 @@
+To use post retrofit
+1. First add dependencies for view model and retrofit
+2. Create file model, interface, intercept, and object
+3. Create file and package for repository and implement MutableLiveData and repository in repository
+4. Create file and package for viewModel and modelViewFactory, then implement all file in Kotlin
+
+Note: To use Post, Put, Patch must ot be in one file
